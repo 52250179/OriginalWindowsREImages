@@ -8,7 +8,7 @@ Deployment scripts can download the required image, inject only the necessary dr
 
 ## Source
 - **Windows 10** – extracted from an official Windows 10 22H2 ISO.
-- **Windows 11** – extracted from an official Windows 11 23H2 ISO.  
+- **Windows 11** – extracted from an official Windows 11 25H2 ISO.  
 Both images are pristine and contain no third‑party drivers.
 
 ## Folder Structure
