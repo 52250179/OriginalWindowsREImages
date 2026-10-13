@@ -3,13 +3,13 @@ this repository (the README, any scripts or documentation written by the
 maintainer, and the repository's own structure). It does NOT apply to the
 Windows Recovery Environment images (winre.wim) or their 7-Zip split archives.
 
-Those images are derived from Microsoft Windows and are Microsoft's property.
-All rights to those files remain with Microsoft. They are redistributed here
-solely as a convenience for recovery purposes on properly licensed Windows
-systems, and any use must comply with Microsoft's applicable license terms for
-Windows and Windows Recovery Environment. No license, express or implied, is
-granted by this repository to those files beyond what Microsoft's own terms
-permit.
+Those images are Microsoft Windows Recovery Environment images. They are
+Microsoft's property. All rights to those files remain with Microsoft. They are
+redistributed here solely as a convenience for recovery purposes on properly
+licensed Windows systems, and any use must comply with Microsoft's applicable
+license terms for Windows and Windows Recovery Environment. No license, express
+or implied, is granted by this repository to those files beyond what Microsoft's
+own terms permit.
 
 ------------------------------------------------------------------------------
 MIT License
@@ -17,11 +17,12 @@ MIT License
 Copyright (c) 2026 Arthur Durand
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software", meaning
+the material authored by the maintainer as described above), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
